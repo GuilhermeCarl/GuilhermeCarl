@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=470303&height=120&section=header"/>
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GUILHERME+CARL;I%27m+23+years+old;I+am+from+Blumenau,+SC;I+study+Information+systems+at+Uniasselvi;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=470303&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GUILHERME+CARL;I%27m+23+years+old;I+am+from+Blumenau,+SC;I+study+Information+systems+at+Uniasselvi;Be+Welcome!+:%29)
 
  &nbsp;
  &nbsp;
@@ -66,7 +66,7 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=470303&height=120&section=footer"/>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
